@@ -1,4 +1,5 @@
 name: Django RLI CI/CD
+
 on:
   push:
     branches: [ "master" ]
